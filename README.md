@@ -1,6 +1,10 @@
 # 👋 Hi there! I'm Artem
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6347&background=A2FF2B00&width=435&lines=Junior+iOS+Developer)](https://git.io/typing-svg)
 
+You can participate in testing my first application. I will be glad to any feedback!
+
+https://testflight.apple.com/join/xPxybeLo
+
 ## 👨🏻‍💻 About me
 
 - 🎓 I'm currently studying Computer Science at the Moscow Technical University of Communications and Informatics
