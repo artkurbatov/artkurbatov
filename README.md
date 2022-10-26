@@ -5,7 +5,6 @@
 
 - 🎓 I'm currently studying Computer Science at the Moscow Technical University of Communications and Informatics
 - 📖 My second degree is an interpreter in professional communication
-- 📱 iOS developer with 1+ years of experience
 - 🏀 Sports enjoyer
 - 📬 You can send me an email at akurbatov.work@gmail.com
 
