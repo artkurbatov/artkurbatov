@@ -1,7 +1,7 @@
 # 👋 Hi there! I'm Artem
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6347&background=A2FF2B00&width=435&lines=Junior+iOS+Developer)](https://git.io/typing-svg)
 
-Check out my first application <a href="https://apple.co/3sTU9ju" target="_blank">Study Cards</a>!
+<a href="https://apple.co/3sTU9ju" target="_blank">Study Cards</a> - my first application and it's available for download!
 
 
 ## 👨🏻‍💻 About me
