@@ -1,7 +1,15 @@
 # 👋 Hi there! I'm Artem
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6347&background=A2FF2B00&width=435&lines=iOS+Developer)](https://git.io/typing-svg)
 
-<a href="https://apple.co/3sTU9ju" target="_blank">Study Cards</a> - my first application and it's available for download!
+## My published apps
+
+<a href="https://apple.co/3sTU9ju" target="_blank">Study Cards</a> - Will help you learn new foreign words
+
+## Apps I'm working on
+
+<a href="https://github.com/KurbatovIOS/Finance-tracker" target="_blank">Finance tracker</a> - Manage your expenses and savings
+
+<a href="https://github.com/KurbatovIOS/States-Quiz" target="_blank">States Quiz</a> - Test your knowledge of states
 
 
 ## 👨🏻‍💻 About me
