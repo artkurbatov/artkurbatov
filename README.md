@@ -1,7 +1,7 @@
 # 👋 Hi there! I'm Artem
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6347&background=A2FF2B00&width=435&lines=iOS+Developer)](https://git.io/typing-svg)
 
-## My published apps
+## My published applications
 
 <a href="https://apple.co/3sTU9ju" target="_blank">Study Cards</a> - Will help you learn new foreign words
 
