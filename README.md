@@ -7,7 +7,7 @@
 
 ## Apps I'm working on
 
-<a href="https://github.com/KurbatovIOS/Finance-tracker" target="_blank">Finance tracker</a> - Manage your expenses and savings
+<a href="https://github.com/KurbatovIOS/Finance-tracker" target="_blank">FinKeeper</a> - Manage your expenses and savings
 
 <a href="https://github.com/KurbatovIOS/States-Quiz" target="_blank">States Quiz</a> - Test your knowledge of states
 
