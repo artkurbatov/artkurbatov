@@ -5,11 +5,11 @@
 
 <a href="https://apple.co/3sTU9ju" target="_blank">Study Cards</a> - Will help you learn new foreign words
 
+<a href="https://apps.apple.com/ru/app/finkeeper/id1666950211?l=en" target="_blank">FinKeeper</a> - Manage your expenses and savings
+
 ## Apps I'm working on
 
-<a href="https://github.com/KurbatovIOS/Finance-tracker" target="_blank">FinKeeper</a> - Manage your expenses and savings
-
-<a href="https://github.com/KurbatovIOS/States-Quiz" target="_blank">States Quiz</a> - Test your knowledge of states
+<a href="https://github.com/KurbatovIOS/States-Quiz" target="_blank">States Quiz</a> - Test your knowledge of states map
 
 
 ## 👨🏻‍💻 About me
