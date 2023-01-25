@@ -22,4 +22,4 @@
 
 ## Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=swift,firebase,git&theme=light)](https://skillicons.dev)
+Swift, UIKit, SwiftUI, SnapKit, CoreData, UserDefaults, Realm, Firebase
