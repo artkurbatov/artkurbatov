@@ -9,7 +9,7 @@
 
 ## Apps I'm working on
 
-<a href="https://github.com/KurbatovIOS/States-Quiz" target="_blank">States Quiz</a> - Test your knowledge of states map
+<a href="https://github.com/KurbatovIOS/States-Quiz" target="_blank">States Map Quiz</a> - Test your knowledge of USA map
 
 
 ## 👨🏻‍💻 About me
