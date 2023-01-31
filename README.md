@@ -3,7 +3,7 @@
 
 ## My published applications
 
-<a href="https://apple.co/3sTU9ju" target="_blank">Study Cards</a> - Will help you learn new foreign words
+<a href="https://apps.apple.com/us/app/study-cards-easy-learning/id6443857317" target="_blank">Study Cards</a> - Will help you learn new foreign words
 
 <a href="https://apps.apple.com/ru/app/finkeeper/id1666950211?l=en" target="_blank">FinKeeper</a> - Manage your expenses and savings
 
