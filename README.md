@@ -7,9 +7,11 @@
 
 <a href="https://apps.apple.com/ru/app/finkeeper/id1666950211?l=en" target="_blank">FinKeeper</a> - Manage your expenses and savings
 
+<a href="https://apple.co/3Jt3FDO" target="_blank">States Map Quiz</a> - Test your knowledge of USA map
+
 ## Apps I'm working on
 
-<a href="https://github.com/KurbatovIOS/States-Quiz" target="_blank">States Map Quiz</a> - Test your knowledge of USA map
+
 
 
 ## 👨🏻‍💻 About me
@@ -17,7 +19,7 @@
 - 🎓 I'm currently studying Computer Science at the Moscow Technical University of Communications and Informatics
 - 📖 My second degree is an interpreter in professional communication
 - 🏀 Sports enjoyer
-- 📄 Check out my <a href="https://drive.google.com/drive/folders/1oSjTlpRR7dtmHmNLnNbSI0HGXOTfE6L9?usp=share_link" target="_blank">CV</a>
+- 📄 I'm looking for any chance to work as an iOS developer: full-time, part-time or internship. My CV <a href="https://drive.google.com/drive/folders/1oSjTlpRR7dtmHmNLnNbSI0HGXOTfE6L9?usp=share_link" target="_blank">CV</a>
 - 📬 You can send me an email at akurbatov.work@gmail.com
 
 ## Tech Stack
