@@ -11,15 +11,14 @@
 
 ## Apps I'm working on
 
-
-
+<a href="https://github.com/KurbatovIOS/Startuper" target="_blank">Startuper</a> - Will help small startups find investors and employees
 
 ## 👨🏻‍💻 About me
 
 - 🎓 I'm currently studying Computer Science at the Moscow Technical University of Communications and Informatics
 - 📖 My second degree is an interpreter in professional communication
 - 🏀 Sports enjoyer
-- 📄 I'm looking for any chance to work as an iOS developer: full-time, part-time or internship. My CV <a href="https://drive.google.com/drive/folders/1oSjTlpRR7dtmHmNLnNbSI0HGXOTfE6L9?usp=share_link" target="_blank">CV</a>
+- 📄 I'm looking for any chance to work as an iOS developer: full-time, part-time or internship. <a href="https://drive.google.com/drive/folders/1oSjTlpRR7dtmHmNLnNbSI0HGXOTfE6L9?usp=share_link" target="_blank">My CV</a>
 - 📬 You can send me an email at akurbatov.work@gmail.com
 
 ## Tech Stack
