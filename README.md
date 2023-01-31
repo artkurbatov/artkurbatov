@@ -7,7 +7,7 @@
 
 <a href="https://apps.apple.com/ru/app/finkeeper/id1666950211?l=en" target="_blank">FinKeeper</a> - Manage your expenses and savings
 
-<a href="https://apple.co/3Jt3FDO" target="_blank">States Map Quiz</a> - Test your knowledge of USA map
+<a href="https://apps.apple.com/us/app/states-map-quiz/id1668807246?ign-itscg=30200&ign-itsct=apps_box_link" target="_blank">States Map Quiz</a> - Test your knowledge of USA map
 
 ## Apps I'm working on
 
