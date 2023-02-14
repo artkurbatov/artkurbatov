@@ -24,3 +24,5 @@
 ## Tech Stack
 
 Swift, UIKit, SwiftUI, SnapKit, CoreData, UserDefaults, Realm, Firebase
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/artkurbatov?hide=ranking)
