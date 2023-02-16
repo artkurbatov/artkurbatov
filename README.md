@@ -18,8 +18,8 @@
 
 - 🎓 I'm currently studying Computer Science at the Moscow Technical University of Communications and Informatics
 - 📖 My second degree is an interpreter in professional communication
+- 🏅 Made it to the top 64 mobile developers at the <a href="https://github.com/KurbatovIOS/VK-Cup-R2" target="_blank">VK Cup 2022 tournament</a>
 - 🏀 Sports enjoyer
-- 📄 I'm looking for any opportunity to work as an iOS developer: full-time, part-time or internship. <a href="https://drive.google.com/drive/folders/1oSjTlpRR7dtmHmNLnNbSI0HGXOTfE6L9?usp=share_link" target="_blank">My CV</a>
 - 📬 You can send me an email at akurbatov.work@gmail.com
 
 ## Tech Stack
