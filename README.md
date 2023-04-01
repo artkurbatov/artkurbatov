@@ -14,16 +14,19 @@
 
 <a href="https://github.com/KurbatovIOS/Startuper" target="_blank">Startuper</a> - Will help small startups find investors and employees
 
+Chat - 
+
 ## 👨🏻‍💻 About me
 
 - 🎓 I'm currently studying Computer Science at the Moscow Technical University of Communications and Informatics
 - 📖 My second degree is an interpreter in professional communication
+- 👨🏻‍💻 Tinkoff Fintech iOS student
 - 🏅 Made it to the top 64 mobile developers at the <a href="https://github.com/KurbatovIOS/VK-Cup-R2" target="_blank">VK Cup 2022 tournament</a>
 - 🏀 Sports enjoyer
 - 📬 You can send me an email at akurbatov.work@gmail.com
 
 ## Tech Stack
 
-Swift, UIKit, SwiftUI, SnapKit, CoreData, UserDefaults, Realm, Firebase
+Swift, UIKit, SwiftUI, SnapKit, CoreData, UserDefaults, Firebase, Combine, SwiftLint
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/artkurbatov?hide=ranking)
