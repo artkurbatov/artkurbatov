@@ -27,6 +27,6 @@ Chat -
 
 ## Tech Stack
 
-Swift, UIKit, SwiftUI, SnapKit, CoreData, UserDefaults, Firebase, Combine, SwiftLint
+Swift, UIKit, SwiftUI, SnapKit, CoreData, UserDefaults, Firebase, Combine
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/artkurbatov?hide=ranking)
