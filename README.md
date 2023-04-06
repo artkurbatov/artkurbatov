@@ -14,7 +14,7 @@
 
 <a href="https://github.com/KurbatovIOS/Startuper" target="_blank">Startuper</a> - Will help small startups find investors and employees
 
-Chat - 
+Chat
 
 ## 👨🏻‍💻 About me
 
