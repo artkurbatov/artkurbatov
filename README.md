@@ -10,7 +10,6 @@
 <a href="https://apps.apple.com/us/app/states-map-quiz/id1668807246?ign-itscg=30200&ign-itsct=apps_box_link" target="_blank">States Map Quiz</a> - Test your knowledge of USA map
 
 ## Apps I'm working on
-<a href="https://github.com/KurbatovIOS/FoodScaner" target="_blank">FoodScaner</a> - My diploma project
 
 <a href="https://github.com/KurbatovIOS/Startuper" target="_blank">Startuper</a> - Will help small startups find investors and employees
 
