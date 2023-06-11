@@ -13,7 +13,9 @@
 
 <a href="https://github.com/KurbatovIOS/Startuper" target="_blank">Startuper</a> - Will help small startups find investors and employees
 
-Chat
+## Other apps
+
+Chat - application was built during Tinkoff Fintech course 
 
 ## 👨🏻‍💻 About me
 
