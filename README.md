@@ -32,6 +32,6 @@
 
 ## Tech Stack
 
-Swift, UIKit, SwiftUI, SnapKit, CoreData, UserDefaults, Firebase, Combine
+Swift, UIKit, SwiftUI, CoreData, UserDefaults, Combine, GCD, NSOperation, Firebase, SnapKit, SwiftLint, Fastlane
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/artkurbatov?hide=ranking)
