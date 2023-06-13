@@ -27,6 +27,9 @@
 - 🏀 Sports enjoyer
 - 📬 You can send me an email at akurbatov.work@gmail.com
 
+<img width="680" alt="image" src="https://github.com/KurbatovIOS/kurbatovios/assets/105456398/e076517d-2f15-4aa8-a9c2-5cddb85ee8d0">
+
+
 ## Tech Stack
 
 Swift, UIKit, SwiftUI, SnapKit, CoreData, UserDefaults, Firebase, Combine
