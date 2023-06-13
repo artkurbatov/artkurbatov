@@ -13,7 +13,7 @@
 
 <a href="https://github.com/KurbatovIOS/Startuper" target="_blank">Startuper</a> - Will help small startups find investors and employees
 
-<a href="https://github.com/KurbatovIOS/FoodInfo" target="_blank">FoodInfo</a> - diploma project
+
 
 ## Other apps
 <a href="https://github.com/KurbatovIOS/Chat" target="_blank">Chat</a> - application was built during Tinkoff Fintech course 
