@@ -9,15 +9,6 @@
 
 <a href="https://apps.apple.com/us/app/states-map-quiz/id1668807246?ign-itscg=30200&ign-itsct=apps_box_link" target="_blank">States Map Quiz</a> - Test your knowledge of USA map
 
-## Apps I'm working on
-
-<a href="https://github.com/KurbatovIOS/Startuper" target="_blank">Startuper</a> - Will help small startups find investors and employees
-
-
-
-## Other apps
-<a href="https://github.com/KurbatovIOS/Chat" target="_blank">Chat</a> - application was built during Tinkoff Fintech course 
-
 ## 👨🏻‍💻 About me
 
 - 🎓 I'm currently studying Computer Science at the Moscow Technical University of Communications and Informatics
