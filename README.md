@@ -9,6 +9,10 @@
 
 <a href="https://apps.apple.com/us/app/states-map-quiz/id1668807246?ign-itscg=30200&ign-itsct=apps_box_link" target="_blank">States Map Quiz</a> - Test your knowledge of USA map
 
+# Other applications
+
+<a href="https://github.com/KurbatovIOS/Chat" target="_blank">Chat</a> - Tinkoff fintech project
+
 ## 👨🏻‍💻 About me
 
 - 🎓 I'm currently studying Computer Science at the Moscow Technical University of Communications and Informatics
