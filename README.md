@@ -20,7 +20,6 @@
 - 👨🏻‍💻 Tinkoff Fintech iOS student
 - 🏅 Made it to the top 64 mobile developers at the <a href="https://github.com/KurbatovIOS/VK-Cup-R2" target="_blank">VK Cup 2022 tournament</a>
 - 🏀 Sports enjoyer
-- 📄 Looking for a job, <a href="https://drive.google.com/drive/u/0/folders/1oSjTlpRR7dtmHmNLnNbSI0HGXOTfE6L9" target="_blank">CV</a>
 - 📬 You can send me an email at akurbatov.work@gmail.com
 
 <img width="680" alt="image" src="https://github.com/KurbatovIOS/kurbatovios/assets/105456398/e076517d-2f15-4aa8-a9c2-5cddb85ee8d0">
