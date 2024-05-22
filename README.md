@@ -1,5 +1,9 @@
 # 👋 Hi there! I'm Artem, iOS Developer
 
+## Applications I'm working on at Alef
+
+<a href="https://apps.apple.com/az/app/permeet-private-party-planner/id1659810674" target="_blank">Permeet: Private Party Planner</a> - Organization of events
+
 ## My published applications
 
 <a href="https://apps.apple.com/us/app/study-cards-easy-learning/id6443857317" target="_blank">Study Cards</a> - Will help you learn new foreign words
