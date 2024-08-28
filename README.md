@@ -19,7 +19,6 @@
 ## 👨🏻‍💻 About me
 
 - 🎓 Bachelor degree in Computer Science (Moscow Technical University of Communications and Informatics)
-- 📖 My second degree is an interpreter in professional communication
 - 👨🏻‍💻 Tinkoff Fintech iOS student
 - 🏅 Made it to the top 64 mobile developers at the <a href="https://github.com/KurbatovIOS/VK-Cup-R2" target="_blank">VK Cup 2022 tournament</a>
 - 🏀 Sports enjoyer
